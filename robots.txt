@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://vlzuiev.github.io/tomasz-vertigo/sitemap.xml
+Host: https://vlzuiev.github.io
